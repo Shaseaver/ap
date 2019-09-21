@@ -22,4 +22,4 @@ In this section, we discuss some of the finer points of programming in C, the sy
   - C Programming on [In Depth C syntax](http://www.cprogramming.com/reference/)
 
 - ### Problem
-  - [Hello](http://docs.cs50.net/2018/ap/problems/hello/hello.html)
+  - [Hello](http://docs.cs50.net/2019/ap/problems/hello/hello.html)

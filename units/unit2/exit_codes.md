@@ -17,5 +17,5 @@ We've already seen return values in the context of functions, and by now it's ho
   - Given the purpose of exit codes, why do you think we use 0 (which normally means false in C) to indicate a successful program conclusion, but non-zero (specifically and most frequently 1) to indicate a failure?
   
 - ### Problems
-  - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
-  - [Calc](https://docs.cs50.net/2018/ap/problems/calc/calc.html)
+  - [Old Friends](https://docs.cs50.net/2019/ap/problems/friends/friends.html)
+  - [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html)

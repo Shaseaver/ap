@@ -24,5 +24,5 @@ Bugs. Ugh. Nobody likes them but every programmer will surely encounter them, re
   - What types of bugs have you encountered in terms of compiler messages you don't understand? 
 
 - ### Problems
-  - [Crack](https://docs.cs50.net/2018/ap/problems/crack/crack.html)
-  - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
+  - [Crack](https://docs.cs50.net/2019/ap/problems/crack/crack.html)
+  - [Vigenére](https://docs.cs50.net/2019/ap/problems/vigenere/vigenere.html)

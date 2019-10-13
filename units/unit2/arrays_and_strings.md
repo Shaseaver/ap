@@ -25,6 +25,5 @@ Strings are a special case of arrays -- in C, a string is an array of characters
   - What if we need to insert an element between two other elements we've already defined in our array? 
   - If we don't otherwise know the number of elements in an array, how might we be able to calculate it? What other information do we need to know in order to do so?
 
-- ### Problem
-  - [Old Friends](https://docs.cs50.net/2019/ap/problems/friends/friends.html)
+
     

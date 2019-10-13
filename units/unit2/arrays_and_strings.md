@@ -26,6 +26,5 @@ Strings are a special case of arrays -- in C, a string is an array of characters
   - If we don't otherwise know the number of elements in an array, how might we be able to calculate it? What other information do we need to know in order to do so?
 
 - ### Problem
-  - Initials
-    - [less](http://docs.cs50.net/2018/ap/problems/initials/less/initials.html)
-    - [more](http://docs.cs50.net/2018/ap/problems/initials/more/initials.html)
+  - [Old Friends](https://docs.cs50.net/2019/ap/problems/friends/friends.html)
+    

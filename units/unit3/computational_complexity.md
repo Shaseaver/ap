@@ -22,5 +22,3 @@ The subject of computational complexity (also known as time complexity and/or sp
   - In what ways does this adherence to asymptotic notation (disregarding constants and lower order terms) hinder our ability to speak about algorithms in the real world?
   - How might we use time complexity analysis to our benefit as programmers before we even write any code?
   
-- ### Problem
-  - [Scramble (Part 1)](http://docs.cs50.net/2018/ap/problems/scramble/1/scramble1.html)

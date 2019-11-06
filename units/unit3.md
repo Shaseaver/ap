@@ -8,4 +8,4 @@
 * [Merge Sort]({{"/units/unit4/merge_sort" | relative_url }})
 * [Computational Complexity]({{"/units/unit3/computational_complexity" | relative_url }})
 * [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
-* [Models and Simulations]({{"/units/unit3/models_and_simulations" | relative_url }})
+

@@ -25,4 +25,4 @@ For a few weeks now, we've dabbled in the process of writing simple source code 
 
 - ### Problems
   - [Me, Myself, and UI](https://docs.cs50.net/2018/ap/problems/ui/ui.html)
-  - [Reverse Engineer](https://docs.cs50.net/2018/ap/problems/reverse/reverse.html)
+  

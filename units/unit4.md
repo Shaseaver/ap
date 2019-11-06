@@ -8,4 +8,3 @@
 * [Hexadecimal]({{"/units/unit4/hexadecimal" | relative_url }})
 * [File I/O]({{"/units/unit4/file_io" | relative_url }})
 * [Images]({{"/units/unit4/images" | relative_url }})
-* [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})

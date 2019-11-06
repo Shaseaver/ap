@@ -30,6 +30,4 @@ In this section, we consider an approach to sorting that minimizes the number of
 
 - ### Problem
   - [Fifteen](https://docs.cs50.net/2019/ap/problems/fifteen/fifteen.html)
-  - Find
-    - [less](http://docs.cs50.net/2018/ap/problems/find/less/find.html)
-    - [more](http://docs.cs50.net/2018/ap/problems/find/more/find.html)
+

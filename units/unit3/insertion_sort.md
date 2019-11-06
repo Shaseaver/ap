@@ -29,6 +29,4 @@ In this section, you will consider a different approach to sorting that doesn't 
   - Under what circumstances, if any, is insertion sort preferable to either of the previous sorts we've seen so far?
   - What makes insertion sort fundamentally different from the previous sorts in its approach?
 
-- ### Problems
-  - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
-  - [Analyze This](https://docs.cs50.net/2018/ap/problems/analyze/analyze.html)
+

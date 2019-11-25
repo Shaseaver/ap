@@ -27,8 +27,8 @@ Images are stored as a number of file types, including but not limited to bitmap
   - How are multimedia types expanding? What can be done to accommodate for these new multimedia types?
 
 - ### Problems
-  - [Whodunit](http://docs.cs50.net/2018/ap/problems/whodunit/whodunit.html)
-  - [Recover](http://docs.cs50.net/2018/ap/problems/recover/recover.html)
+  - [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
+  - [Recover](http://docs.cs50.net/2019/ap/problems/recover/recover.html)
   - Resize
-    - [less](http://docs.cs50.net/2018/ap/problems/resize/less/resize.html)
-    - [more](http://docs.cs50.net/2018/ap/problems/resize/more/resize.html)
+    - [less](http://docs.cs50.net/2019/ap/problems/resize/less/resize.html)
+    - [more](http://docs.cs50.net/2019/ap/problems/resize/more/resize.html)

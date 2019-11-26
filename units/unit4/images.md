@@ -28,7 +28,7 @@ Images are stored as a number of file types, including but not limited to bitmap
 
 - ### Problems
   - [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
-  - [Recover (otional)](http://docs.cs50.net/2019/ap/problems/recover/recover.html)
+  - [Recover (optional)](http://docs.cs50.net/2019/ap/problems/recover/recover.html)
   - Resize
     - [less](http://docs.cs50.net/2019/ap/problems/resize/less/resize.html)
     - [more](http://docs.cs50.net/2019/ap/problems/resize/more/resize.html)
